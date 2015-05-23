@@ -1,0 +1,3 @@
+== README
+
+Tugas Ruby on Rails untuk relatioship dan export-import
